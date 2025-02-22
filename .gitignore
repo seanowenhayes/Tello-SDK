@@ -22,3 +22,5 @@ Photos/*.jpg
 #Tello Manuals/
 #doc/
 /target/
+
+.idea
